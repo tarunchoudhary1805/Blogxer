@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.home-first-container{padding: 10px;
+}
+.home-first-div{
+    display: flex;
+    
+    justify-content: center;
+    
+}
+.div-img-set img{
+     width: 100%;
+
+}
+.center{
+display: flex;
+justify-content: center;
+}
+.home-second-div{
+    text-align: center;
+width: 50%;
+    
+    position: relative;
+    bottom: 37px;
+    background-color: white;
+}
+p{
+    color: gray;
+    font-size: 15px;
+}
+.home-three-img-div{flex-wrap: wrap;
+display: flex;
+justify-content: center;
+}
+.img{text-align: center;
+     margin: 10px;
+    padding: 10px; 
+    
+}
+h2{
+ font-family: fong-song;
+}
+.img-hover:hover{ 
+
+}
